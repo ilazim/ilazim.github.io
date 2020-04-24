@@ -9,11 +9,44 @@
      animation: Gradient 15s ease infinite; 
 
   }
-
+  
+  div.bio
+   {
+   margin: 10%;
+   margin-right: 30%;
+   margin-left: 30%;
+   padding-left: 100px;
+   padding-right: 100px;
+   border: 1px black;
+   background-color: azure;
+   opacity: 0.5; 
+   font-family:"Lucida Console", Monaco, monospace ;
+       }
+  div.bio:hover
+  {
+   opacity:  .7;
+  }
+       div.txt h1 
+       {
+        padding: 5%;
+        font-family: 'Dancing Script', cursive; 
+        text-align: center;
+        color: #000000;
+        font-weight: bold
+      }
+      
+      div.txt p 
+      {
+        font-family: 'Montserrat', sans-serif;
+        padding-bottom: 5%;
+        text-align: center;
+        color: black;
+        
+             }
   * {
     box-sizing: border-box;
     }
-
+ 
   .slider {
       width: 50%;
       margin: 100px auto;

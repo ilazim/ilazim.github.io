@@ -11,7 +11,7 @@ body {
   overflow: hidden;
   background: rgb(238,174,202);
   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-  font-family: 'Dancing Script', cursive;
+  font-family: "Dancing Script", cursive;
   font-weight: bold;
   text-align: center;
 }
@@ -33,7 +33,7 @@ div.bio:hover {
 
 div.txt h2 {
 	padding: 5%;
-	font-family: 'Dancing Script', cursive;
+	font-family: "Dancing Script", cursive;
 	text-align: center;
 	color: #000000;
 	font-weight: bold
